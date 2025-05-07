@@ -1,4 +1,5 @@
 # ChocolateShipped
+I HAVE DONE  
 Data Cleaning and Adding columns with Power Query  
 Data Modeling and Star Schema    
 How to connect tables  
